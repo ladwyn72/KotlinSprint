@@ -10,7 +10,9 @@ fun main() {
     val startLocation: String = list[0]
     val endLocation : String = list[1]
     val moveNumber : String = list[2]
-    println("откуда $startLocation куда $endLocation номер хода $moveNumber")
+    println("откуда $startLocation")
+    println("куда $endLocation")
+    println("номер хода $moveNumber")
 
 
 }
